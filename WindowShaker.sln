@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowShaker", "WindowShaker\WindowShaker.csproj", "{116836AA-5136-4099-9389-241B301283C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+		AppStore|Any CPU = AppStore|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{116836AA-5136-4099-9389-241B301283C3}.AppStore|Any CPU.ActiveCfg = AppStore|Any CPU
+		{116836AA-5136-4099-9389-241B301283C3}.AppStore|Any CPU.Build.0 = AppStore|Any CPU
+		{116836AA-5136-4099-9389-241B301283C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{116836AA-5136-4099-9389-241B301283C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{116836AA-5136-4099-9389-241B301283C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{116836AA-5136-4099-9389-241B301283C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = WindowShaker\WindowShaker.csproj
+	EndGlobalSection
+EndGlobal
