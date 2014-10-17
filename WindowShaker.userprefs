@@ -1,12 +1,6 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="WindowShaker.Mac/Shaker.cs">
-    <Files>
-      <File FileName="WindowShaker/MainWindowController.cs" Line="1" Column="1" />
-      <File FileName="WindowShaker.Mac/Shaker.cs" Line="1" Column="1" />
-      <File FileName="Shaker/Shaker.cs" Line="26" Column="26" />
-    </Files>
-  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
