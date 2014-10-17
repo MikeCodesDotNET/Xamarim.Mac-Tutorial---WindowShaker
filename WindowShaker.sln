@@ -1,7 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowShaker", "WindowShaker\WindowShaker.csproj", "{116836AA-5136-4099-9389-241B301283C3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowShaker.Sample", "WindowShaker\WindowShaker.Sample.csproj", "{116836AA-5136-4099-9389-241B301283C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shaker", "Shaker\Shaker.csproj", "{C8F0A2BF-5A80-4347-A1D7-9EEEDC5FE451}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -16,8 +18,14 @@ Global
 		{116836AA-5136-4099-9389-241B301283C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{116836AA-5136-4099-9389-241B301283C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{116836AA-5136-4099-9389-241B301283C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8F0A2BF-5A80-4347-A1D7-9EEEDC5FE451}.AppStore|Any CPU.ActiveCfg = Release|Any CPU
+		{C8F0A2BF-5A80-4347-A1D7-9EEEDC5FE451}.AppStore|Any CPU.Build.0 = Release|Any CPU
+		{C8F0A2BF-5A80-4347-A1D7-9EEEDC5FE451}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8F0A2BF-5A80-4347-A1D7-9EEEDC5FE451}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8F0A2BF-5A80-4347-A1D7-9EEEDC5FE451}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8F0A2BF-5A80-4347-A1D7-9EEEDC5FE451}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(MonoDevelopProperties) = preSolution
-		StartupItem = WindowShaker\WindowShaker.csproj
+		StartupItem = WindowShaker\WindowShaker.Sample.csproj
 	EndGlobalSection
 EndGlobal

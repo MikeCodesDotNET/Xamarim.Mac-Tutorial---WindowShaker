@@ -1,20 +1,14 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" ActiveRuntime="Mono 3.2.5" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="WindowShaker/MainWindowController.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="WindowShaker.Mac/Shaker.cs">
     <Files>
-      <File FileName="WindowShaker/Main.cs" Line="19" Column="1" />
-      <File FileName="WindowShaker/MainWindowController.cs" Line="48" Column="3" />
-      <File FileName="WindowShaker/MainWindow.designer.cs" Line="19" Column="63" />
-      <File FileName="WindowShaker/MainWindow.cs" Line="1" Column="1" />
+      <File FileName="WindowShaker/MainWindowController.cs" Line="1" Column="1" />
+      <File FileName="WindowShaker.Mac/Shaker.cs" Line="1" Column="1" />
+      <File FileName="Shaker/Shaker.cs" Line="26" Column="26" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
-    <Watch file="../../Git Respositories/Zendesk/Zendesk/Views/iTableView.cs" line="58" offsetX="453" offsetY="855" expression="aRowRect" liveUpdate="False" />
-    <Watch file="../../Git Respositories/Zendesk/Zendesk/Windows/MainWindowController.cs" line="97" offsetX="533" offsetY="1095" expression="views" liveUpdate="False" />
-    <Watch file="../../Git Respositories/Zendesk/Zendesk/Windows/MainWindowController.cs" line="196" offsetX="800" offsetY="2400" expression="ticketTable" liveUpdate="False" />
-    <Watch file="../../Git Respositories/Zendesk/Zendesk/DataSources/ViewsDataSource.cs" line="40" offsetX="359" offsetY="585" expression="ident" liveUpdate="False" />
-  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>
